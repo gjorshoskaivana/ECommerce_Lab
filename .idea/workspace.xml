@@ -5,9 +5,130 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="066bcd0a-0149-457a-87d1-30d2606fa3ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_shapesecurity_salvation2_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_44_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_44_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_cssparser_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_44_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_text_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_38_v20210224.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_29_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_44_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_12_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/EmtLabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/EmtLabApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/EmtLabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/EmtLabApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/config/CustomUsernamePasswordAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/config/CustomUsernamePasswordAuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/dto/BookDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/dto/BookDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/enumerations/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/enumerations/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/enumerations/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/enumerations/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/AuthorNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/AuthorNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/BookNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/BookNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/InvalidArgumentsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/InvalidArgumentsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/InvalidUserCredentialsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/InvalidUserCredentialsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/InvalidUsernameOrPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/InvalidUsernameOrPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/PasswordsDoNotMatchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/PasswordsDoNotMatchException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/model/exceptions/UsernameAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/model/exceptions/UsernameAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/repository/AuthorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/repository/AuthorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/repository/CountryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/repository/CountryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/service/impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/web/BookRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/web/BookRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/web/CategoryRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/web/CategoryRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/test/java/mk/ukim/finki/emtlab/EmtLabApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/mk/ukim/finki/emtlab/EmtLabApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +154,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -45,7 +171,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.EmtLabApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -60,10 +186,29 @@
     <configuration name="EmtLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="emt-lab" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="mk.ukim.finki.emtlab.EmtLabApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="backend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="backend/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.backend: Compose Deployment" />
+      <item itemvalue="Spring Boot.EmtLabApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.backend: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,18 +220,29 @@
       <updated>1618399627322</updated>
       <workItem from="1618399628932" duration="867000" />
       <workItem from="1618400704095" duration="35000" />
-      <workItem from="1618400934642" duration="5340000" />
+      <workItem from="1618400934642" duration="8846000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/web/src/main/java/mk/ukim/finki/emtlab/config/WebSecurityConfig.java</url>
+          <url>file://$PROJECT_DIR$/backend/src/main/java/mk/ukim/finki/emtlab/config/WebSecurityConfig.java</url>
           <line>63</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
