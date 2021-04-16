@@ -17,6 +17,6 @@ public class CategoryRestController {
 
     @GetMapping
     public List<Category> findAll(){
-        return Arrays.stream(Category.values()).distinct().collect(Collectors.toList());
+        return Arrays.stream(Category.values()).collect(Collectors.toList());
     }
 }

@@ -12,6 +12,7 @@ import java.util.List;
 @CrossOrigin(origins = "http://localhost:3000")
 @RequestMapping("/api/books")
 public class BookRestController {
+
     private final BookService bookService;
 
     public BookRestController(BookService bookService) {
@@ -23,7 +24,7 @@ public class BookRestController {
         return this.bookService.findAll();
     }
 
-    @GetMapping
+    @GetMapping("/{id}")
     public ResponseEntity<Book> findById(@PathVariable Long id){
         return this.bookService.findById(id)
                 .map(book -> ResponseEntity.ok().body(book))
@@ -52,7 +53,7 @@ public class BookRestController {
         return ResponseEntity.badRequest().build();
     }
 
-    @PostMapping("/taken/{id}")
+    @PutMapping("/taken/{id}")
     public ResponseEntity<Book> markAsTaken(@PathVariable Long id){
         return this.bookService.markAsTaken(id)
                 .map(book -> ResponseEntity.ok().body(book))
